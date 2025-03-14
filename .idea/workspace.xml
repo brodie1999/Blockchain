@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf70d450-f064-4809-b61b-fb2875ce1f8e" name="Changes" comment="Step 1: implement blockchain &amp; Proof of Work algorithm (PoW). &#10;&#10;Step 2: Blockchain as an API.">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "brodie1999"
+  }
+}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="9d9b2d8b-0b16-4e42-9215-28823f8f91da" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/brodie1999/Blockchain.git",
+    "accountId": "9d9b2d8b-0b16-4e42-9215-28823f8f91da"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/Scripts/activate" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/.venv/Scripts/activate_this.py" root0="SKIP_INSPECTION" />
@@ -65,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741971023780</updated>
-      <workItem from="1741971024634" duration="5310000" />
+      <workItem from="1741971024634" duration="7720000" />
     </task>
     <task id="LOCAL-00001" summary="Step 1: implement blockchain &amp; Proof of Work algorithm (PoW). &#10;&#10;Step 2: Blockchain as an API.">
       <option name="closed" value="true" />
@@ -75,11 +90,38 @@
       <option name="project" value="LOCAL" />
       <updated>1741977881836</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Step 1: implement blockchain &amp; Proof of Work algorithm (PoW). &#10;&#10;Step 2: Blockchain as an API.">
+      <option name="closed" value="true" />
+      <created>1741977982954</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741977982954</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Step 1: implement blockchain &amp; Proof of Work algorithm (PoW). &#10;&#10;Step 2: Blockchain as an API.">
+      <option name="closed" value="true" />
+      <created>1741978067407</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741978067407</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Step 1: implement blockchain &amp; Proof of Work algorithm (PoW). &#10;&#10;Step 2: Blockchain as an API." />
